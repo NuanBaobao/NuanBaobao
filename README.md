@@ -1,11 +1,11 @@
 ## Hi there 👋
 Hello everyone, I am ZhangJinhua, an enthusiastic self-taught front-end web developer, interested in deep learning and databases.
+
 - #### 🔭 I’m currently working on https://www.cs.sdu.edu.cn/
 - #### 🌱 I’m currently learning https://en.wikipedia.org/wiki/Deep_learningn
 - #### 👯 How to contact me zjh17117428@gmail.com
 - #### 💬 phone 13176655937
 - #### 📲 WeChat: New_Territory_HZH
-
 <!--
 **NuanBaobao/NuanBaobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao)](https://github.com/NuanBaobao/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&exclude_repo=github-readme-stats,NuanBaobao.github.io)](https://github.com/NuanBaobao/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&langs_count=8)](https://github.com/NuanBaobao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&exclude_repo=github-readme-stats,NuanBaobao.github.io)](https://github.com/NuanBaobao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&layout=compact)](https://github.com/NuanBaobao/github-readme-stats)
 -->
 
-![NuanBaobao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuanBaobao&show_icons=true&theme=tokyonight&count_private=true)      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&layout=compact)](https://github.com/NuanBaobao/github-readme-stats)
+![NuanBaobao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuanBaobao&show_icons=true&theme=tokyonight&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao)](https://github.com/NuanBaobao/github-readme-stats)
+
 
 
