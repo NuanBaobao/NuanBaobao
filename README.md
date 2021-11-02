@@ -1,10 +1,10 @@
 ## Hi there 👋
 Hello everyone, I am ZhangJinhua, an enthusiastic self-taught front-end web developer, interested in deep learning and databases.
-- ### 🔭 I’m currently working on https://www.cs.sdu.edu.cn/
-- ### 🌱 I’m currently learning https://en.wikipedia.org/wiki/Deep_learningn
-- ### 👯 How to contact me zjh17117428@gmail.com
-- ### 💬 phone 13176655937
-- ### 📲 WeChat: New_Territory_HZH
+- #### 🔭 I’m currently working on https://www.cs.sdu.edu.cn/
+- #### 🌱 I’m currently learning https://en.wikipedia.org/wiki/Deep_learningn
+- #### 👯 How to contact me zjh17117428@gmail.com
+- #### 💬 phone 13176655937
+- #### 📲 WeChat: New_Territory_HZH
 
 <!--
 **NuanBaobao/NuanBaobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
