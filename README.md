@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&langs_count=8)](https://github.com/NuanBaobao/github-readme-stats)
 -->
-![NuanBaobao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuanBaobao&show_icons=true&theme=tokyonight&count_private=true)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&layout=compact)](https://github.com/NuanBaobao/github-readme-stats)
+![NuanBaobao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuanBaobao&show_icons=true&theme=tokyonight&count_private=true)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&layout=compact)](https://github.com/NuanBaobao/github-readme-stats)
 
 
