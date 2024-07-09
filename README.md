@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 ![NuanBaobao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuanBaobao&show_icons=true&theme=tokyonight&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuanBaobao&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/NuanBaobao/github-readme-stats)
+
 
 
 
