@@ -5,6 +5,8 @@ Hello everyone, I am Jinhua Zhang, an enthusiastic self-taught front-end web dev
 - #### 👯 How to contact me jinhua.zjh@gmail.com
 <!-- - #### 💬 phone 15117117428
 - #### 📲 WeChat: New_Territory_HZH -->
+- #### 🤔 personal homepage https://nuanbaobao.github.io/
+- #### ⚡ Google Scholar [https://nuanbaobao.github.io/](https://scholar.google.com/citations?user=tyYxiXoAAAAJ&hl=zh-CN&oi=sra)
 <!--
 **NuanBaobao/NuanBaobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
