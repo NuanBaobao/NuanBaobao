@@ -2,7 +2,6 @@
 Hello everyone, I am Jinhua Zhang, an enthusiastic self-taught front-end web developer, interested in deep learning and databases.
 
 - #### 🔭 I’m currently working on https://diggers.ai/people/
-- #### 🌱 I’m currently learning https://en.wikipedia.org/wiki/Deep_learningn
 - #### 👯 How to contact me jinhua.zjh@gmail.com
 <!-- - #### 💬 phone 15117117428
 - #### 📲 WeChat: New_Territory_HZH -->
