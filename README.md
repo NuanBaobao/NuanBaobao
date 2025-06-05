@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello everyone, I am Jinhua Zhang, an enthusiastic self-taught front-end web developer, interested in deep learning and databases.
+Hello everyone, I am [Jinhua Zhang](https://nuanbaobao.github.io/), an enthusiastic self-taught front-end web developer, interested in deep learning and databases.
 
 - #### 🔭 I’m currently working on https://diggers.ai/people/
 - #### 👯 How to contact me jinhua.zjh@gmail.com
