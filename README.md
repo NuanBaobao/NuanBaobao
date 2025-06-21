@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello everyone, I am [Jinhua Zhang](https://nuanbaobao.github.io/), an enthusiastic self-taught front-end web developer, interested in deep learning and databases.
+Hello everyone, I am [Jinhua Zhang](https://scholar.google.com/citations?user=tyYxiXoAAAAJ), an enthusiastic self-taught front-end web developer, interested in deep learning and databases.
 
 - #### 🔭 I’m currently working on https://diggers.ai/people/
 - #### 👯 How to contact me jinhua.zjh@gmail.com
@@ -8,7 +8,9 @@ Hello everyone, I am [Jinhua Zhang](https://nuanbaobao.github.io/), an enthusias
 <!--
 - #### 🤔 personal homepage [https://nuanbaobao.github.io/](https://nuanbaobao.github.io/)
 -->
+<!--
 - #### ⚡ Google Scholar [https://scholar.google.com/citations?user=tyYxiXoAAAAJ](https://scholar.google.com/citations?user=tyYxiXoAAAAJ)
+-->
 <!--
 **NuanBaobao/NuanBaobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
