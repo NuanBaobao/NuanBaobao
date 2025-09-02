@@ -1,5 +1,5 @@
-## Hi there 👋
-Hello! I'm [Jinhua Zhang](https://scholar.google.com/citations?user=tyYxiXoAAAAJ), a passionate self-taught front-end developer currently pursuing my Master's at [UESTC](https://www.scse.uestc.edu.cn/) under [Prof. Shuhang Gu](https://shuhanggu.github.io/), with a BS from [SDU](https://www.cs.sdu.edu.cn/). My work bridges web technologies, deep learning, and database systems.
+token## Hi there 👋
+Hello! I'm [Jinhua Zhang](https://scholar.google.com/citations?user=tyYxiXoAAAAJ), a passionate self-taught front-end developer currently pursuing my Master's at University of Electronic Science and Technology of China ([UESTC](https://www.scse.uestc.edu.cn/)) under [Prof. Shuhang Gu](https://shuhanggu.github.io/), with a BS from [Shandong University](https://www.cs.sdu.edu.cn/). My work bridges web technologies, deep learning, and database systems.
 
 - #### 🔭 I’m currently working on https://diggers.ai/people/
 - #### 👯 How to contact me jinhua.zjh@gmail.com
