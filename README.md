@@ -1,8 +1,12 @@
 ## Hi there 👋
-Hello! I'm [Jinhua Zhang](https://scholar.google.com/citations?user=tyYxiXoAAAAJ), a passionate self-taught front-end developer currently pursuing my Master's at University of Electronic Science and Technology of China ([UESTC](https://www.scse.uestc.edu.cn/)) under [Prof. Shuhang Gu](https://shuhanggu.github.io/), with a BS from [Shandong University](https://www.cs.sdu.edu.cn/). My work bridges web technologies, deep learning, and database systems.
 
-- #### 🔭 I’m currently working on https://diggers.ai/people/
-- #### 👯 How to contact me jinhua.zjh@gmail.com
+**Hello!** I am a Ph.D. candidate at the *[University of Electronic Science and Technology of China (UESTC)](https://www.scse.uestc.edu.cn/)*, where I am advised by [Prof. Shuhang Gu](https://scholar.google.com/citations?user=-kSTt40AAAAJ&hl=zh-CN).
+I received my bachelor's degree in Computer Science from [Shandong University](https://www.cs.sdu.edu.cn/).
+From 2023 to 2025, I worked as a research intern at *Alibaba Cloud*, mentored by [Sijia Cai](https://scholar.google.com/citations?user=LMVeRVAAAAAJ&hl=zh-CN&oi=sra) and [Hualian Sheng](https://scholar.google.com/citations?user=73JaDUQAAAAJ&hl=zh-CN&oi=sra).
+
+My research interests lie in **computer vision**, with a focus on **image generation** and **3D generation**.
+
+
 <!-- - #### 💬 phone 15117117428
 - #### 📲 WeChat: New_Territory_HZH -->
 <!--
