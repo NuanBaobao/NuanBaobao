@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Hello!** I am [Jinhua Zhang](https://nuanbaobao.github.io/) (张进华), a Ph.D. candidate at the *[University of Electronic Science and Technology of China (UESTC)](https://www.scse.uestc.edu.cn/)*, where I am advised by [Prof. Shuhang Gu](https://scholar.google.com/citations?user=-kSTt40AAAAJ&hl=zh-CN).
+**Hello!** I am [Jinhua Zhang](https://scholar.google.com/citations?user=tyYxiXoAAAAJ) (张进华), a Ph.D. candidate at the *[University of Electronic Science and Technology of China (UESTC)](https://www.scse.uestc.edu.cn/)*, where I am advised by [Prof. Shuhang Gu](https://scholar.google.com/citations?user=-kSTt40AAAAJ&hl=zh-CN).
 I received my bachelor's degree in Computer Science from [Shandong University](https://www.cs.sdu.edu.cn/) in 2023.
 From 2023 to 2025, I worked as a research intern at *Alibaba Cloud*, mentored by [Sijia Cai](https://scholar.google.com/citations?user=LMVeRVAAAAAJ&hl=zh-CN&oi=sra) and [Hualian Sheng](https://scholar.google.com/citations?user=73JaDUQAAAAJ&hl=zh-CN&oi=sra).
 
